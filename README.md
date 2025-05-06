@@ -68,7 +68,7 @@
 
 ###
 
-<h2 align="left">📌Ongoing Projects</h2>
+<h2 align="left">📌Projects</h2>
 
 ###
 
@@ -89,6 +89,14 @@
 ###
 
 <p align="left">- 🃏Klondike Solitaire: A console-based Solitarire card game developed in Java; playable with some errors to be polished.</p>
+
+###
+
+<h4 align="left">✈️Ongoing Projects</h4>
+
+###
+
+<p align="left">- 🖥️POS: This is a Java-based application, a POS (Point of Sale) system for a restaurant, featuring a graphical UI to manage tables, the menu, and billing.</p>
 
 ###
 
